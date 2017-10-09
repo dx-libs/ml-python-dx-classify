@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+_ignore_/
+_ignore_*
